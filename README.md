@@ -34,14 +34,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-#==============================How to use This app on local server=====================================
-you have to install node from https://nodejs.org/en/download .
-you also need to install all the packages using run this command : npm install
 
-#===============================versel====================================================
-
-#=========================================how to use this website========================
-it is used to add the task and detailed description of your task using click on Add New Task.
-we can see the task in list of front page.
-we can select as to do task, in progress task, and complted task.
-we can also edit and delete the task.
